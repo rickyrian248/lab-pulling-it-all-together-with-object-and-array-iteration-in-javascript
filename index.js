@@ -1,4 +1,4 @@
-t sfunction gameObject() {
+function gameObject() {
     return {
         home: {
             teamName: "Brooklyn Nets",
